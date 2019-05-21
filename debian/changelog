@@ -1,3 +1,9 @@
+ipxe (1.0.0+git-20190125.36a4c85-1+lliurex2) bionic; urgency=medium
+
+  * Fix dependencies/replaces/provides
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Tue, 21 May 2019 12:00:31 +0200
+
 ipxe (1.0.0+git-20190125.36a4c85-1+lliurex1) bionic; urgency=medium
 
   * Port to lliurex bionic

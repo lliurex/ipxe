@@ -15,6 +15,9 @@ Package: ipxe
 Architecture: all
 Multi-Arch: foreign
 Depends: ${misc:Depends}
+Conflicts: grub-ipxe
+Provides: grub-ipxe
+Replaces: grub-ipxe
 Description: PXE boot firmware
  iPXE is network boot firmware.  It supports a variety of network cards,
  including some wireless cards, and variety of network protocols (traditional
@@ -31,6 +34,9 @@ Package: ipxe-qemu
 Architecture: all
 Multi-Arch: foreign
 Depends: ${misc:Depends}
+Conflicts: grub-ipxe
+Provides: grub-ipxe
+Replaces: grub-ipxe
 Description: PXE boot firmware - ROM images for qemu
  iPXE is network boot firmware.  It supports a variety of network cards,
  including some wireless cards, and variety of network protocols (traditional
