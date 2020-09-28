@@ -1,3 +1,9 @@
+ipxe (1.0.0+git-20190125.36a4c85-1+lliurex2) focal; urgency=medium
+
+  * Focal build
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Mon, 28 Sep 2020 10:47:05 +0200
+
 ipxe (1.0.0+git-20190125.36a4c85-1+lliurex2) bionic; urgency=medium
 
   * Fix dependencies/replaces/provides
